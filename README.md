@@ -7,7 +7,7 @@ MEU NOME E RAMON COSTA
 
 -Estou me Desenvolvendo na Linguagem javascript
 
--Eltilizo Esse Espaço para Minha Organização e Compartilhamento de Projetos Desenvolvidos
+-Ultilizo Esse Espaço para Minha Organização e Compartilhamento de Projetos Desenvolvidos
 
 ### você entrar em contato comigo 📫
 
