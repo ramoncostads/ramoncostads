@@ -3,8 +3,10 @@
 MEU NOME E RAMON COSTA
 🌙🐈‍⬛
 
--Estou Estudando no [Alura](https://www.alura.com.br)                      
+-Estou Estudando no [Alura](https://www.alura.com.br)    
+
 -Estou me Desenvolvendo na Linguagem javascript
+
 -Eltilizo Esse Espaço para Minha Organização e Compartilhamento de Projetos Desenvolvidos
 
 ### você entrar em contato comigo 📫
